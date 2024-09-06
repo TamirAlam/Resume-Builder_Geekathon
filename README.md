@@ -1,4 +1,4 @@
-##PROJECT TITLE:RESUME BUILDER 💼🤖
+PROJECT TITLE:  RESUME BUILDER 💼🤖
 
 
 Project Overview ℹ️
@@ -9,8 +9,12 @@ FEATURES 🌟
 
 
 Skill-Based Job Suggestions: The AI analyzes the skills listed in the resume and suggests job positions that match those skills. This feature helps users identify suitable job opportunities.
-Project Recommendations: In addition to job suggestions, the AI also recommends relevant projects based on the user's skills. These projects can help users enhance their portfolio and improve their chances during interviews.
-Print and Download: Users have the option to print or download the generated resume in various formats for easy sharing and submission during job applications.
+Project Recommendations:
+In addition to job suggestions, the AI also recommends relevant projects based on the user's skills. These projects can help users enhance their portfolio and improve their chances during interviews.
+
+Print and Download:
+Users have the option to print or download the generated resume in various formats for easy sharing and submission during job applications.
+
 TECHNOLOGY USES💻
 HTML: Markup language for structuring the user interface of the web application.
 CSS (Normal and Tailwind): CSS is used for styling the web application, and Tailwind CSS is employed for rapid development and maintaining a consistent design system.
